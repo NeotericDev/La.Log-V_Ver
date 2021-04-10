@@ -1,5 +1,5 @@
 # Log-V_Ver
-A utility windows application for viewing/monitoring the log files.
+A desktop utility application for viewing/monitoring the log files.
 
 
 As a developer, we all know how difficult to go through the good-old-log-files and to get out the required/essential information out of it.
